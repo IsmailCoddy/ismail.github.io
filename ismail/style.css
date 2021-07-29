@@ -1,0 +1,107 @@
+p{
+	font-family: Open Sans;
+	color: #ff2f00;
+	background-color: yellow;
+	margin: 30px 0px;
+	font-size: 15pt;
+	}
+div{
+	width: 65%;
+	margin: auto;
+	padding: 15px;
+	background-color: #00ffff;
+	text-align: justify;
+	box-sizing: border-box;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	box-sizing: border-box;
+	box-shadow: 10px 10px 50px 5px rgba(43, 20, 243, 0.9);
+} 
+.test2{
+	color: red;
+	font-size: 30pt;
+	text-decoration: none;
+	margin: 50px 300px;
+}
+img{
+	width: 100%;
+	display: block;
+}
+h1{
+	color: #5200f7;
+}
+h2{
+	color: #5200f7;
+}
+#lang{
+	color: #0c57ad;
+}
+.href{
+	text-decoration: none;
+	color: #0c57ad;
+}
+a{
+	font-size: 15pt;
+	text-decoration: none;
+	scroll-behavior: smooth;
+}
+#cod{
+	background-color: black;
+}
+.coddy{
+	color: rgb(231, 14, 20);
+	font-size: 20pt;
+}
+.coddy:hover{
+	transition: 0.3s linear;
+	font-size: 25pt;
+	color: rgb(230, 120, 254);
+}
+#pointer{
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	background-size: cover;
+	background-image: url("img/up.png");
+	background-position: center;
+	margin-top: 82vh;
+	background-color: white;
+}
+.world{
+	font-family: "Oswald";
+	font-size: 45pt;
+	margin-left: 375px;
+	color: yellow;
+}
+.href1{
+	text-decoration: none;
+	font-size: 20pt;
+	color: rgb(20, 156, 246);
+}
+.href2{
+	text-decoration: none;
+	font-size: 20pt;
+	color: rgb(20, 156, 246);
+	padding-left: 110px;
+}
+.href3{
+	text-decoration: none;
+	font-size: 20pt;
+	color: rgb(20, 156, 246);
+	padding-left: 175px;
+}
+.href1:hover{
+	transition: 0.2s;
+	font-size: 30pt;
+	color: #f25;
+}
+.href2:hover{
+	transition: 0.2s;
+	font-size: 25pt;
+	color: #f25;
+}
+.href3:hover{
+	transition: 0.2s;
+	font-size: 30pt;
+	color: #f25;
+}

@@ -1,0 +1,34 @@
+div{
+	width: 75%;
+	margin: auto;
+	padding: 20px;
+	background-color: #33b8f5;
+	text-align: justify;
+}
+p{
+	font-family: "Roboto";
+	font-size: 30pt;
+	color: #4df533;
+}
+a{
+	font-size: 25pt;
+	text-decoration: none;
+	color: #112bad;
+}
+h1{
+	font-size: 35pt;
+}
+img{
+	width: 100%;
+	height: 600px;
+}
+#ios{
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	background-image: url("img/up.png");
+	background-size: cover;
+	background-position: center;
+	margin-top: 76vh;
+}

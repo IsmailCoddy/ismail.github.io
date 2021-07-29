@@ -1,0 +1,18 @@
+.href{
+	font-size: 30pt;
+	color: rgb(200, 10, 11);
+}
+div{
+	width: 70%;
+	margin: auto;
+}
+#web{
+	position: fixed;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	background-image: url("img/up.png");
+	background-size: cover;
+	background-position: center;
+	margin-top: 82vh;
+}
